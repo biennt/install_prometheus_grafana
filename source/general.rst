@@ -1,6 +1,6 @@
 Cài đặt Prometheus
 
-Launching F5 BIGIP Virtual Edition
+Cài đặt Prometheus
 ----------------------------------
 
 Login to the VNG Cloud Portal
